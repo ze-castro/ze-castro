@@ -17,9 +17,6 @@
 		<a href="/tools/qr-code"
 			><Svg name="qr-code" size="2rem" color="var(--gray-2)" /> Gerador de QR Code
 		</a>
-		<a href="/tools/pdf-compressor"
-			><Svg name="file" size="2rem" color="var(--gray-2)" /> Compressor de PDF
-		</a>
 		<a href="/tools/text-comparison"
 			><Svg name="text" size="2rem" color="var(--gray-2)" /> Comparador de Textos
 		</a>
