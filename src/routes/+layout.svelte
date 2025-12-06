@@ -1,6 +1,4 @@
 <script lang="ts">
-	// static prerendering
-	export const prerender = true;
 	// media
 	import favicon from '$lib/assets/favicon.ico';
 	import appleTouchIcon from '$lib/assets/index/logo.webp';
