@@ -1,38 +1,32 @@
-# sv
+# O Meu Site Pessoal
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+Este é o repositório do meu site pessoal que apresenta o meu portfólio, clientes e serviços. Também há uma seção de ferramentas com várias utilidades web.
 
-## Creating a project
+## Live Demo
 
-If you're seeing this, you've probably already done this step. Congrats!
+[Ver Site](https://ze-castro.onrender.com)
 
-```sh
-# create a new project in the current directory
-npx sv create
+## Tech Stack
 
-# create a new project in my-app
-npx sv create my-app
-```
+- Svelte 5
+- SvelteKit
 
-## Developing
+## Caixa de Ferramentas
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Todas as ferramentas nesta secção são gratuitas para uso pessoal ou comercial. Todas as ferramentas correm apenas no lado do cliente, garantindo assim a privacidade dos seus dados.
 
-```sh
-npm run dev
+### Gerador de Códigos QR
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+Com esta ferramenta, pode criar códigos QR personalizados para URLs, textos, contactos e outros.
 
-## Building
+### Comparador de Textos
 
-To create a production version of your app:
+Permite comparar dois blocos de texto e destacar as diferenças entre eles.
 
-```sh
-npm run build
-```
+### Conversor de Imagens
 
-You can preview the production build with `npm run preview`.
+Permite converter imagens dos formatos: PNG, JPEG, WEBP, mantendo a qualidade da imagem original.
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+### Compressor de Imagens
+
+Permite comprimir imagens nos formatos PNG, JPEG e WEBP, reduzindo o tamanho do ficheiro de acordo com as suas necessidades.
