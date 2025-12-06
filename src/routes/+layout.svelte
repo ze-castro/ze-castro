@@ -1,4 +1,6 @@
 <script lang="ts">
+	// static prerendering
+	export const prerender = true;
 	// media
 	import favicon from '$lib/assets/favicon.ico';
 	import appleTouchIcon from '$lib/assets/index/logo.webp';
@@ -11,7 +13,6 @@
 	import '$lib/styles/defaults.css';
 
 	let { children } = $props();
-	export const prerender = true;
 </script>
 
 <svelte:head>
