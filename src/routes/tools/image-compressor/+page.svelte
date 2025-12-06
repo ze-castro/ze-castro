@@ -71,7 +71,7 @@
 <main class="tools">
 	<BackButton link="/tools" />
 	<h1>Compressor de Imagens</h1>
-	<p>Comprime imagens PNG, JPEG, JPG, WEBP</p>
+	<p>Comprime imagens PNG, JPEG, WEBP</p>
 	<label for="fileInput" class="file-input-label">
 		<span>Clique para adicionar imagens</span>
 	</label>
