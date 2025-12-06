@@ -11,6 +11,7 @@
 	import '$lib/styles/defaults.css';
 
 	let { children } = $props();
+	export const prerender = true;
 </script>
 
 <svelte:head>
